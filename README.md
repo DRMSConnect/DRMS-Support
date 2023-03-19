@@ -1,4 +1,4 @@
-#DRMS Support
+# DRMS Support
 
 Welcome to the issues and requests page for DRMS. This page is dedicated to tracking and resolving any issues or bugs that users encounter while using the application, as well as receiving feature requests from users.
 
