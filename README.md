@@ -10,6 +10,6 @@ If you encounter any bugs, errors, or issues while using DRMS, or if you have an
 
 ## Accessing the Application
 
-DRMS is currently hosted on the web. You can access the application by visiting the following URL: https://www.appimax.com/drms. If you have any issues with accessing the application or encounter any issues while using the application, please submit an issue in this repository.
+DRMS is currently hosted on the web. You can access the application by visiting the following URL: https://testing.drms.com. If you have any issues with accessing the application or encounter any issues while using the application, please submit an issue in this repository.
 
 Thank you for using DRMS
